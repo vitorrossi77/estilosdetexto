@@ -1,0 +1,100 @@
+/* Estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Estilo para o Título 1 */
+.titulo-estilo1 {
+    font-size: 2.5em;
+    color: #1E90FF; /* Cor azul */
+    background-color: #E0F7FA; /* Fundo azul-claro */
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+/* Estilo para o Título 2 */
+.titulo-estilo2 {
+    font-size: 2.5em;
+    color: #4CAF50; /* Cor verde */
+    background-color: #E8F5E9; /* Fundo verde-claro */
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+
+/* Estilo para o Texto 1 */
+.texto-estilo1 {
+    font-size: 1.2em;
+    color: #555; /* Cor cinza-escuro */
+    background-color: #E3F2FD; /* Fundo azul-claro */
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+/* Estilo para o Texto 2 */
+.texto-estilo2 {
+    font-size: 1.2em;
+    color: #333; /* Cor cinza-escuro */
+    background-color: #F1F8E9; /* Fundo verde-claro */
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+.titulo-estilo3{
+    font-size: 2.5em;
+    color: #af4c4c; /* Cor verde */
+    background-color: #E8F5E9; /* Fundo verde-claro */
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+.texto-estilo3{
+    font-size: 1.2em;
+    color: #333; /* Cor cinza-escuro */
+    background-color: #F1F8E9; /* Fundo verde-claro */
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+.titulo-estilo4{
+    font-size: 2.5em;
+    color: #88306b; /* Cor verde */
+    background-color: #E8F5E9; /* Fundo verde-claro */
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+}
+.texto-estilo4{
+    font-size: 1.2em;
+    color: #333; /* Cor cinza-escuro */
+    background-color: #F1F8E9; /* Fundo verde-claro */
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
